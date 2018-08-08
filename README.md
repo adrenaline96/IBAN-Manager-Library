@@ -11,7 +11,7 @@ Dependencies:
 
 Installation:
 1. From the nupkg file in this repo
-2. From NuGet Gallery
+2. From NuGet Gallery (https://www.nuget.org/packages/IBANManager.API/)
 3. From the NuGet Package Manager in VS by browsing the NuGet Gallery directly
 4. From the .dll file in this repo, needs to be added as a reference
 
