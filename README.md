@@ -1,4 +1,4 @@
-# IBAN-Manager-API
+# IBAN-Manager-API (2.0)
 API to generate check digits for artificial IBANs and check validity of IBAN codes.
 
 
