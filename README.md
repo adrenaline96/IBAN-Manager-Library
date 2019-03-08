@@ -8,6 +8,8 @@ Dependencies:
 2. System.Collections.Concurrent
 3. .NET Framework 4.6.1
 4. .NET Standard 2
+5. System.IO
+6. System.Text
 
 Installation:
 1. From the nupkg file in this repo
