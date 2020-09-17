@@ -1,5 +1,5 @@
-# IBAN-Manager-API (2.0)
-API to generate check digits for artificial IBANs and check validity of IBAN codes.
+# IBAN-Manager-Library (2.0)
+Library to generate check digits for artificial IBANs and check validity of IBAN codes.
 
 
 Dependencies:
@@ -12,7 +12,7 @@ Dependencies:
 
 Installation:
 1. From the nupkg file in this repo
-2. From NuGet Gallery (https://www.nuget.org/packages/IBANManager.API/)
+2. From NuGet Gallery (https://www.nuget.org/packages/)
 3. From the NuGet Package Manager in VS by browsing the NuGet Gallery directly
 4. From the .dll file in this repo, needs to be added as a reference
 
