@@ -1,4 +1,4 @@
-# IBAN-Manager-Library (2.0)
+# IBAN-Manager-Library 
 Library to generate check digits for artificial IBANs and check validity of IBAN codes.
 
 
