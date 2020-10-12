@@ -1,9 +1,9 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Text;
 
-namespace IBAN_Manager_API
+namespace IBAN_Manager
 {
     class Table
 {
@@ -21,7 +21,10 @@ namespace IBAN_Manager_API
 
             }
         }
-        catch { }
+        catch 
+            {
+                throw new Exception("Failed to load IBAN table data. Maybe table.ini is missing? It needs to be placed in the application folder. It can be found here: https://github.com/adrenaline96/IBAN-Manager-Library/blob/master/table.ini");
+            }
     }
 }
 }
