@@ -16,7 +16,8 @@ Installation:
 3. From the NuGet Package Manager in VS by browsing the NuGet Gallery directly
 4. From the .dll file in this repo, needs to be added as a reference
 
-The IBAN table will be loaded from table.ini which needs to be placed next to the app executable, also needs to be distributed with the final app
+The IBAN table will be loaded from table.ini which needs to be placed next to the app executable, also needs to be distributed with the final app.
+table.ini can be found here: https://github.com/adrenaline96/IBAN-Manager-Library/blob/master/table.ini
 
 
 Usage examples: https://pastebin.com/ymtuRTfH
